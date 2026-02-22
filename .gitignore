@@ -1,0 +1,5 @@
+node_modules/
+mock-project/
+mock-global-store/
+package-lock.json
+.DS_Store
