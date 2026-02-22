@@ -1,7 +1,7 @@
-🚀 Utilisation
+# 🚀 Utilisation
 Dans n'importe quel projet Node.js (contenant un package.json) :
 
-🏗️ Architecture Technique
+#🏗️ Architecture Technique
 L'outil est décomposé en 4 modules clés :
 
 Resolver : Calcule l'arbre de dépendances exact.
